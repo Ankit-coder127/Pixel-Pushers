@@ -1,0 +1,14 @@
+body{
+    margin: 0% 5%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    padding: 20px;
+    border-radius: 30px;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
